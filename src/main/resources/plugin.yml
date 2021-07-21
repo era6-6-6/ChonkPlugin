@@ -1,0 +1,5 @@
+name: ${project.name}
+author: SquaredHelix & Era
+version: ${project.version}
+main: me.kristoffer.chonkplugin.ChonkPlugin
+api-version: 1.17
